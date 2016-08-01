@@ -1,0 +1,4 @@
+In unserem Fall beträgt das Median des Gradientbetrags 0 und das Histogram zeigt Gradientenrichtung des Bildes, die etwa 130 grad ist. 
+Natürlich entgegengesetzte Rictung ist auch die Gradientrichtung, es läßt sich auf beiden Histogrammen sehen. 
+Also die Kantenrichtung dann ist orthogonal zur Gradientenrichtung 90-50 = 40.
+Deiser Wert kann bei der Segmentierung der Handschrift hilfreich sein(Biegungsgrad).
